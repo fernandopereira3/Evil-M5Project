@@ -29,10 +29,10 @@
 ## NOVO Recurso! a partir da versão 1.3.7: Ataque a Impressoras!!!
 ### Apresentando a capacidade de escanear, verificar status e imprimir em impressoras vulneráveis.
 
-   1. **Detectar Impressoras<br>
+   1. **Detectar Impressoras**<br>
     Detecte automaticamente impressoras vulneráveis com a porta aberta 9100 na rede atualmente conectada.
 
-   2. **Imprimir Arquivos<br>
+   2. **Imprimir Arquivos**<br>
     Envie arquivos armazenados no cartão SD para todas as impressoras detectadas para impressão.
 
 <div align="center">
@@ -40,21 +40,24 @@
 ⚠️ use com moderação
 </div>
 
-3. **Check Printer Status**<br>
-Use SNMP to retrieve the current status of detected printers, including information like toner levels, paper status, and device errors.
 
-#### Manual Printer Management
-Add printers manually to target devices outside the current IP range and perform scans or actions on them.
+   3. **Verificar Status da Impressora**<br>
+    Use o protocolo SNMP para recuperar o status atual das impressoras detectadas, incluindo informações como níveis de toner, status do papel e erros do dispositivo.
 
-This feature allows you to interact with network printers efficiently, uncover vulnerabilities, and automate printing tasks on compromised devices.
+#### Gerenciamento Manual de Impressoras
 
-## NEW Feature! from v1.3.6: Network Hijacking
-### Automate the process of taking over a network's infrastructure.
+Adicione impressoras manualmente para atingir dispositivos fora do intervalo de IP atual e realize varreduras ou ações sobre elas.
 
-1. **DHCP Starvation Attack**:
-   - Floods the target DHCP server with fake client requests, exhausting the pool of available IP addresses.
-   - Forces legitimate devices to fail when requesting an IP address when attack is successful.
-  
+Este recurso permite interagir com impressoras de rede de forma eficiente, identificar vulnerabilidades e automatizar tarefas de impressão em dispositivos comprometidos..
+
+## NOVO Recurso! a partir da versão 1.3.6: Sequestro de Rede
+Automatize o processo de assumir a infraestrutura de uma rede.
+
+1. **Ataque de Esgotamento de DHCP (DHCP Starvation Attack)**:
+      - Envia um grande número de solicitações falsas ao servidor DHCP alvo, esgotando o pool de endereços IP disponíveis.
+      - Força dispositivos legítimos a falhar ao tentar obter um endereço IP quando o ataque é bem-sucedido.
+
+
 <div align="center">
   <img src="./Github-Img/NetworkHijacking1.jpg" alt="Network Hijacking Process" width="350"/>
 </div>
