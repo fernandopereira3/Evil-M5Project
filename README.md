@@ -26,7 +26,7 @@
 
 </div>
 
-## Tradução Disclamer
+## Disclamer da tradução
    Começei a traduzir o <b>Evil-M5Project</b> para que os brasileiros e também estou recriando as paginas HTML para os moldes PT-BR aos que tiverem interesse em me ajudar é só dor clone no repositório e fazer.
 
    Não vou traduzir todo os README fiz ate agora a versão 1.3.6 com o tempo vou fazendo mais.
