@@ -4,7 +4,9 @@
 
   <img src="https://github.com/7h30th3r0n3/Evil-M5Core2/blob/main/SD-Card-File/img/startup.jpg" width="300" />
 
-  <<b>Evil-M5Project</b> é uma ferramenta inovadora desenvolvida para testes éticos e exploração de redes Wi-Fi. Ela utiliza o poder do dispositivo M5Core2 para escanear, monitorar e interagir com redes Wi-Fi em um ambiente controlado. Este projeto foi projetado para fins educacionais, auxiliando na compreensão da segurança e das vulnerabilidades de redes.
+  
+
+  <b>Evil-M5Project</b> é uma ferramenta inovadora desenvolvida para testes éticos e exploração de redes Wi-Fi. Ela utiliza o poder do dispositivo M5Core2 para escanear, monitorar e interagir com redes Wi-Fi em um ambiente controlado. Este projeto foi projetado para fins educacionais, auxiliando na compreensão da segurança e das vulnerabilidades de redes.
 
 <i>Aviso</i>: O criador do Evil-M5Core2 não se responsabiliza por qualquer uso indevido desta ferramenta. Ela é destinada exclusivamente para fins éticos e educacionais. Os usuários são lembrados de cumprir todas as leis e regulamentações aplicáveis em sua jurisdição. Todos os arquivos fornecidos com o Evil-M5Core2 devem ser usados em um ambiente controlado e em conformidade com as leis e regulamentações aplicáveis. O uso indevido ou ilegal desta ferramenta é estritamente proibido e não é apoiado pelo criador..
 
