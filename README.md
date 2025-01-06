@@ -4,51 +4,40 @@
 
   <img src="https://github.com/7h30th3r0n3/Evil-M5Core2/blob/main/SD-Card-File/img/startup.jpg" width="300" />
 
-  <b>Evil-M5Project</b> is an innovative tool developed for ethical testing and exploration of WiFi networks. It harnesses the power of the M5Core2 device to scan, monitor, and interact with WiFi networks in a controlled environment. This project is designed for educational purposes, aiding in understanding network security and vulnerabilities.
+  <<b>Evil-M5Project</b> é uma ferramenta inovadora desenvolvida para testes éticos e exploração de redes Wi-Fi. Ela utiliza o poder do dispositivo M5Core2 para escanear, monitorar e interagir com redes Wi-Fi em um ambiente controlado. Este projeto foi projetado para fins educacionais, auxiliando na compreensão da segurança e das vulnerabilidades de redes.
 
-  > <i>Disclaimer</i>: The creator of Evil-M5Core2 is not responsible for any misuse of this tool. It is intended solely for ethical and educational purposes. Users are reminded to comply with all applicable laws and regulations in their jurisdiction. All files provided with Evil-M5Core2 are designed to be used in a controlled environment and must be used in compliance with all applicable laws and regulations. Misuse or illegal use of this tool is strictly prohibited and not supported by the creator.
+<i>Aviso</i>: O criador do Evil-M5Core2 não se responsabiliza por qualquer uso indevido desta ferramenta. Ela é destinada exclusivamente para fins éticos e educacionais. Os usuários são lembrados de cumprir todas as leis e regulamentações aplicáveis em sua jurisdição. Todos os arquivos fornecidos com o Evil-M5Core2 devem ser usados em um ambiente controlado e em conformidade com as leis e regulamentações aplicáveis. O uso indevido ou ilegal desta ferramenta é estritamente proibido e não é apoiado pelo criador..
 
   #### Evil-M5Family
 
   <img src="./Github-Img/M5family.jpg" width="300" />
   <img src="./Github-Img/CYD-Stick.jpg" width="200" />
   
-  If you like this project, support me by buying me a coffee on [Ko-fi](https://ko-fi.com/7h30th3r0n3) !
+  Este projeto é um fork conheça do criador aqui --> [Ko-fi](https://ko-fi.com/7h30th3r0n3) !
 
-  [![Support the project on Ko-fi !](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/7h30th3r0n3)
 
-  Or use this affiliate link to buy M5 product [Support the project on M5 shop](https://shop.m5stack.com/?ref=7h30th3r0n3) !
-
-  <div>
-    <a href="https://shop.m5stack.com/?ref=7h30th3r0n3">
-        <img src="https://static.goaffpro.com/4973/images/1561376655877.png" alt="Support my on M5 shop" width="100" style="display:block; margin:auto;" />
-    </a>
-  </div>
-
-  </br>
-
-  Join the Evil-M5 discord for help and updates 😉:
+  Entre no discord para futuros update 😉:
 
   <a href="https://discord.com/invite/qbwAJch25S">
-    <img src="https://7h30th3r0n3.com/discord.jpg" width="75" alt="Join Discord" />
+    <img src="https://7h30th3r0n3.com/discord.jpg" width="75" alt="Discord" />
   </a>
 
 </div>
 
 
 
-## NEW Feature! from v1.3.7: Printer Attack!!!
-### Introducing the ability to scan, check status, and print on vulnerable printers.
+## NOVO Recurso! a partir da versão 1.3.7: Ataque a Impressoras!!!
+### Apresentando a capacidade de escanear, verificar status e imprimir em impressoras vulneráveis.
 
-1. **Detect Printers**<br>
-Automatically detect vulnerable printers with an open port `9100` on the currently connected network.
+   1. **Detectar Impressoras<br>
+    Detecte automaticamente impressoras vulneráveis com a porta aberta 9100 na rede atualmente conectada.
 
-2. **Print Files**<br>
-Send files stored on the SD card to all detected printers for printing.
+   2. **Imprimir Arquivos<br>
+    Envie arquivos armazenados no cartão SD para todas as impressoras detectadas para impressão.
 
 <div align="center">
 <img src="./Github-Img/backtofuture.gif" width="300" alt="backtofuture" /><br>
-⚠️ please use this ethicaly
+⚠️ use com moderação
 </div>
 
 3. **Check Printer Status**<br>
