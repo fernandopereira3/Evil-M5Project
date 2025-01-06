@@ -26,6 +26,10 @@
 
 </div>
 
+## Tradução Disclamer
+   Começei a traduzir o <b>Evil-M5Project</b> para que os brasileiros e também estou recriando as paginas HTML para os moldes PT-BR aos que tiverem interesse em me ajudar é só dor clone no repositório e fazer.
+
+   Não vou traduzir todo os README fiz ate agora a versão 1.3.6 com o tempo vou fazendo mais.
 
 
 ## NOVO Recurso! a partir da versão 1.3.7: Ataque a Impressoras!!!
