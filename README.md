@@ -4,7 +4,7 @@
 
   <img src="https://github.com/7h30th3r0n3/Evil-M5Core2/blob/main/SD-Card-File/img/startup.jpg" width="300" />
 
-  
+
 
   <b>Evil-M5Project</b> é uma ferramenta inovadora desenvolvida para testes éticos e exploração de redes Wi-Fi. Ela utiliza o poder do dispositivo M5Core2 para escanear, monitorar e interagir com redes Wi-Fi em um ambiente controlado. Este projeto foi projetado para fins educacionais, auxiliando na compreensão da segurança e das vulnerabilidades de redes.
 
@@ -64,33 +64,33 @@ Automatize o processo de assumir a infraestrutura de uma rede.
   <img src="./Github-Img/NetworkHijacking1.jpg" alt="Network Hijacking Process" width="350"/>
 </div>
 
-2. **Rogue DHCP Server**:
-   - Takes over DHCP requests after starvation, responding with malicious configurations.
-   - Redirects DNS queries to the Evil-Cardputer IP, when the portal is ON the DNS is spoofed so any http request without HSTS should redirect to portal page.
-   - It can be used without DHCP starvation if the DHCP is slow to anwser.
-  
+2. **Servidor FAKE DHCP (Rogue DHCP Server)**:
+    - Assume o controle das solicitações DHCP após o ataque de esgotamento, respondendo com configurações maliciosas.
+    - Redireciona consultas DNS para o IP do Evil-Cardputer. Quando o portal está ATIVO, o DNS é falsificado, de modo que qualquer solicitação HTTP sem HSTS deve redirecionar para a página do portal.
+    - Pode ser usado sem o ataque de esgotamento de DHCP, caso o servidor DHCP seja lento para responder.
+
 <div align="center">
   <img src="./Github-Img/NetworkHijacking2.jpg" alt="Network Hijacking Process" width="350"/>
 </div>
 
 3. **Switch DNS**:
-   - Switch DNS address between emitted WiFi and WiFi Local connection to answer DNS query on the connected network.
+   - Alterne o endereço DNS entre o Wi-Fi emitido e a conexão Wi-Fi local para responder às consultas DNS na rede conectada.
   
 <div align="center">
   <img src="./Github-Img/NetworkHijacking3.jpg" alt="Network Hijacking Process" width="350"/>
 </div>
 
-**Automated Workflow**:
-   - With a single command, Evil-Cardputer executes the full attack process:
-     - DHCP Starvation
-     - Rogue DHCP setup
-     - Captive portal initialization
-     - Switching DNS and spoofing
-   - Interactive guidance is provided at each step for demonstration if you want.
+**Workflow Automatico**:
+   - Com um único comando, o Evil-Cardputer executa todo o processo de ataque:
+      - Esgotamento de DHCP (DHCP Starvation)
+      - Configuração do Servidor DHCP Falso
+      - Inicialização do portal cativo
+      - Alternância e falsificação de DNS
+   - Orientação interativa é fornecida em cada etapa para demonstração, caso desejado.
 
 <div align="center">
   
-  Here the demo video :
+  Video demo :
   
   <a href="https://youtube.com/shorts/htfcb1ta51U" >
       <img alt="Demo Video" src="https://img.youtube.com/vi/htfcb1ta51U/0.jpg" width="33%" height="33%"/>
